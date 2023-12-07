@@ -1,9 +1,9 @@
 /* style.css */
 #championsChart {
-    width: 400px !important; /* 设置图表宽度 */
-    height: 200px !important; /* 设置图表高度 */
-    margin-top: 20px; /* 设置图表与页面顶部的距离 */
-    margin-left: 20px; /* 设置图表与页面左侧的距离 */
+    width: 400px !important; /* width */
+    height: 200px !important; /* height */
+    margin-top: 20px; /* distance between the top of the page from chart */
+    margin-left: 20px; /* chart distance from the right side of the page */
 }
 
 body {
